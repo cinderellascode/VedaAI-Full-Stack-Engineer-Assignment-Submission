@@ -1,4 +1,4 @@
-# VedaAI — AI Assessment Creator
+# VedaAI - AI Assessment Creator
 
 Full-stack application for teachers to create assignments, generate structured question papers with AI, and view/export exam-ready output.
 
